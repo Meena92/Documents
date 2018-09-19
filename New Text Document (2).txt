@@ -1,0 +1,3 @@
+echo @off
+cd /d "C:\Users\mn00365099\gitrepo"
+git pull https://github.com/Meena292/devtest.git

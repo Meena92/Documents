@@ -1,0 +1,8 @@
+{
+	"meta": {},
+	"data":{
+		"id": "24",
+		"title": "Behavior-Driven Development",
+		"author": "Viktor Farcic"
+	}
+}
